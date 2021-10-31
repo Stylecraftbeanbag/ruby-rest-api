@@ -1,0 +1,5 @@
+curl -X POST https://rest.messagebird.com/verify \
+-H 'Authorization: AccessKey GkPlYUOzqrjxAY7po8O8sqeQ2' \
+-d "recipient=+917065546554" \
+-d "originator=" \
+-d "type=sms"
