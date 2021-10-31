@@ -1,0 +1,4 @@
+POST /v1/settings/account/two-step
+{
+    "pin": "237123"
+}
